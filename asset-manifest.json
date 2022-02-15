@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ra-homework-lifecycle-CRUD/static/css/main.4a461798.css",
+    "main.js": "/ra-homework-lifecycle-CRUD/static/js/main.98c98447.js",
+    "static/js/787.5107c385.chunk.js": "/ra-homework-lifecycle-CRUD/static/js/787.5107c385.chunk.js",
+    "static/media/updateIcon.png": "/ra-homework-lifecycle-CRUD/static/media/updateIcon.936e968bfcc9665947f0.png",
+    "index.html": "/ra-homework-lifecycle-CRUD/index.html",
+    "main.4a461798.css.map": "/ra-homework-lifecycle-CRUD/static/css/main.4a461798.css.map",
+    "main.98c98447.js.map": "/ra-homework-lifecycle-CRUD/static/js/main.98c98447.js.map",
+    "787.5107c385.chunk.js.map": "/ra-homework-lifecycle-CRUD/static/js/787.5107c385.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a461798.css",
+    "static/js/main.98c98447.js"
+  ]
+}
